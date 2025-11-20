@@ -1,4 +1,4 @@
-# Week 5 Homework
+# Week 5 
 
 Module 6 uses strings, classes, and file I/O.
 The program creates an Item class with two properties:
