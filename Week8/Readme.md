@@ -1,4 +1,4 @@
-#Week 8
+# Week 8
 
 This program simulates a simple bank account system.
 It lets the user deposit money, make purchases, view their balance, and automatically records transactions in a file.
