@@ -1,0 +1,7 @@
+Deposit: $10
+Purchase - coffee: $5
+Deposit: $100
+Purchase - tea: $5
+Purchase - car: $30
+Purchase - plane: $50
+Deposit: $10
